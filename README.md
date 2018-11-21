@@ -8,11 +8,8 @@ Coming soon
 
 ### Prerequisites
 
-You must have NodeJS installed the run this project
+You must have Node installed to run this project
 
-```
-Give examples
-```
 
 ### Installing
 
