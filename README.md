@@ -4,7 +4,7 @@ Community web app for CeeSpot Enschede
 
 ## Getting Started
 
--
+Coming soon
 
 ### Prerequisites
 
@@ -34,7 +34,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Running the tests
 
--
+Coming soon
 
 ### Break down into end to end tests
 
@@ -58,11 +58,11 @@ Not available
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Coming soon
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [Github](http://github.com/) for versioning.
 
 ## Authors
 
@@ -71,7 +71,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * **Michael Brown** - *Front end* - [Michael](https://github.com/michaelbrownie)
 * **Frank Grevelink** - *Front end* - [Frank](https://github.com/fgrevelink)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Waro1234/ceespot/settings/collaboration) who participated in this project.
 
 ## License
 
