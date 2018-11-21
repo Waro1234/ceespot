@@ -6,28 +6,17 @@ Community web app for CeeSpot Enschede
 
 Coming soon
 
-### Prerequisites
-
-You must have Node installed to run this project
 
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+- Install node from [nodejs.org](https://nodejs.org/en/)
+- To run the project do the following
 
 ```
-until finished
+npm run dev
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
@@ -40,7 +29,6 @@ We use Jest to run our tests
 ```
 Not available
 ```
-
 
 ## Deployment
 
